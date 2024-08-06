@@ -8,3 +8,5 @@ Todays weather is awesome and all days are awesome.
 i am checking merge conflict so bear with me.
 
 Side
+
+this change is done for push only
